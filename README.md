@@ -32,7 +32,7 @@
  
 
    ### 2)  Code D3
-    <img src="resultatFinal.PNG"/>
+    <img src="resultatFinal.png"/>
   <i>Si vous étes intéressé par ce diagram vous pouvez découvrir le code pour l'utilisé avec la bibliothéque de javascript JS</i>
   <a href='http://bl.ocks.org/sjengle/5431779'>Pour le reste de code cliquez ici  </a>[1]
  
