@@ -1,4 +1,4 @@
-# MOS5.5 Data Visualisation : Travail 1 :
+# MOS5.5 Data Visualisation-Travail 1 :
   
  # ARC Diagram
   
@@ -24,7 +24,9 @@
   On a un fichier JSON ou les données sont structuré de la façon suivante:
   Un objet JSON comportant deux tableaux :
   -Tableaux noeuds 
+   <img src="data1.png"/>
   -Tableaux arcs
+   <img src="data2.png"/>
   Le tableau noeuds comporte des objets chaque objet a un attribut name et un attribut group l'attribut groupe varie entre 1 et 8  
    <img src="resultatFinal.png"/>
 
