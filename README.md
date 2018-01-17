@@ -1,6 +1,6 @@
 # MOS5.5 Data Visualisation : Travail 1 :
   
- +# ARC Diagram
+ # ARC Diagram
   
   ## I - Description
   
@@ -18,21 +18,21 @@
   
   ## II - Exemples :
   
-  ### 1) 
+  ### 1) Données :
   
-  <img src="img/1.png"/>
-  <i>Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla </i>
- Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla 
+  <i>Fichier JSON</i>
+  On a un fichier JSON ou les données sont structuré de la façon suivante:
+  Un objet JSON comportant deux tableaux :
+  -Tableaux noeuds 
+  -Tableaux arcs
+  Le tableau noeuds comporte des objets chaque objet a un attribut name et un attribut group l'attribut groupe varie entre 1 et 8  
+   <img src="resultatFinal.png"/>
+
+   ### 2)  Code D3
+  <img src="resultatFinal.png"/>
+  <i>Si vous étes intéressé par ce diagram vous pouvez découvrir le code pour l'utilisé avec la bibliothéque de javascript JS</i>
+  <a href='http://mbostock.github.io/protovis/ex/arc.html'>Pour le reste de code cliquez ici  </a>[1]
  
-  <img src="img/2.jpg"/>
-  <i>Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla </i>
-  
-   ### 2) 
-  
-  <img src="img/1.png"/>
-  <i>Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla </i>
- Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla 
-  
   ## V - Sources
 
 * <a href='http://mbostock.github.io/protovis/ex/arc.html'></a>[1]
