@@ -29,10 +29,10 @@
   <tr><th> -Tableaux arcs : </td><td><img src="data2.png"/></td></tr>
  </table>
   Le tableau noeuds comporte des objets chaque objet a un attribut name (nom de la personne) et un attribut group ( le groupe à lequel appartient une personne) l'attribut groupe varie entre 1 et 8.
+   <img src="resultat.png"/>
  
 
-   ### 2)  Code D3
-    <img src="resultat.png"/>
+   ### 2)  Code D3 : 
   <i>Si vous étes intéressé par ce diagram vous pouvez découvrir le code pour l'utilisé avec la bibliothéque de javascript JS</i>
   <a href='http://bl.ocks.org/sjengle/5431779'>Pour le reste de code cliquez ici  </a>[1]
  
