@@ -29,6 +29,7 @@
   <tr><th> -Tableaux arcs : </td><td><img src="data2.png"/></td></tr>
  </table>
   Le tableau noeuds comporte des objets chaque objet a un attribut name (nom de la personne) et un attribut group ( le groupe à lequel appartient une personne) l'attribut groupe varie entre 1 et 8.
+  Ci - dessous le resultat final qu'on veux obtenir :
    <img src="resultat.png"/>
  
 
