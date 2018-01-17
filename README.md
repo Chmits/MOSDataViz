@@ -23,12 +23,12 @@
   <i>Fichier JSON</i>
   On a un fichier JSON ou les données sont structuré de la façon suivante:
   Un objet JSON comportant deux tableaux :
-  -Tableaux noeuds 
+  -Tableaux noeuds : 
    <img src="data1.png"/>
-  -Tableaux arcs
+  -Tableaux arcs : 
    <img src="data2.png"/>
   Le tableau noeuds comporte des objets chaque objet a un attribut name et un attribut group l'attribut groupe varie entre 1 et 8  
-   <img src="resultatFinal.png"/>
+   <img src="resultatFinal.PNG"/>
 
    ### 2)  Code D3
   <img src="resultatFinal.png"/>
@@ -37,4 +37,4 @@
  
   ## V - Sources
 
-* <a href='http://mbostock.github.io/protovis/ex/arc.html'></a>[1]
+* <a href='http://bl.ocks.org/sjengle/5431779'>exemple complet</a>[1]
