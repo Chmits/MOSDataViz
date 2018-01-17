@@ -23,17 +23,18 @@
   <i>Fichier JSON</i>
   On a un fichier JSON ou les données sont structuré de la façon suivante:
   Un objet JSON comportant deux tableaux :
-  -Tableaux noeuds : 
-   <img src="data1.png"/>
-  -Tableaux arcs : 
-   <img src="data2.png"/>
+ <table>
+  <tr><th> -Tableaux noeuds :</th><td><img src="data1.png"/></td></tr>
+ 
+  <tr><th> -Tableaux arcs : </td><td><img src="data2.png"/></td></tr>
+ </table>
   Le tableau noeuds comporte des objets chaque objet a un attribut name et un attribut group l'attribut groupe varie entre 1 et 8  
-   <img src="resultatFinal.PNG"/>
+ 
 
    ### 2)  Code D3
-  <img src="resultatFinal.png"/>
+    <img src="resultatFinal.PNG"/>
   <i>Si vous étes intéressé par ce diagram vous pouvez découvrir le code pour l'utilisé avec la bibliothéque de javascript JS</i>
-  <a href='http://mbostock.github.io/protovis/ex/arc.html'>Pour le reste de code cliquez ici  </a>[1]
+  <a href='http://bl.ocks.org/sjengle/5431779'>Pour le reste de code cliquez ici  </a>[1]
  
   ## V - Sources
 
