@@ -4,11 +4,12 @@
   
   ## I - Description
   
-   <img src="arc_diagram.png"/>
+ 
    
   Le diagramme " ARC Diagram " est une maniére pour représenter un diagramme réseaux à deux dimensions. 
   Dans un ARC Diagram, les noeuds sont placées tous au long d'une ligne (un simple axe qui représente la 1ére dimension)
   et les arcs sont utilisés pour montrer les connections entre les divers noeuds.
+    <img src="arc_diagram.png"/>
   
   Dans certaions cas on peut utilisé l'épaisseur  de chaque arc comme un indicateur sur la nature de la connection entre les noeuds       (exemple : fréquence) noeud source et noeud destination .
   
@@ -81,18 +82,20 @@ Créer un champ calculé y:
 (((SIN([Point] * PI() / 180)) * [Life Expectency] / 2) * [Died At]) / {MAX([Died At])}
 Créer un champ calculé Statut:
 [x] <= [Died At]
-Étape: 3: Configurer le graphique
-
-Glisser x sur l'étagère des colonnes
-Clic droit sur la pilule x et la convertir en dimension
-Glisser sur l'étagère des lignes
-Clic droit sur la pilule y et la convertir en dimension
-Convertir le type de marques de Automatique à Ligne
-Faites glisser l'ID de personne au détail
-Faites glisser le point vers le chemin
-Cliquez avec le bouton droit de la souris sur la pillule Point et convertissez-la en dimension
-Glisser le statut sur la couleur
-Effectuez la mise en forme finale et ajoutez des astuces, le cas échéant
+Étape: 3: 
+<ul>
+<li>Configurer le graphique</li>
+<li>Glisser x sur l'étagère des colonnes</li>
+<li>Clic droit sur la pilule x et la convertir en dimension</li>
+<li>Glisser sur l'étagère des lignes</li>
+<li>Clic droit sur la pilule y et la convertir en dimension</li>
+<li>Convertir le type de marques de Automatique à Ligne</li>
+<li>Faites glisser l'ID de personne au détail</li>
+<li>Faites glisser le point vers le chemin</li>
+<li>Cliquez avec le bouton droit de la souris sur la pillule Point et convertissez-la en dimension</li>
+<li>Glisser le statut sur la couleur</li>
+<li><li>Effectuez la mise en forme finale et ajoutez des astuces, le cas échéant</li>
+</ul
 et c'est fini.
  
   ## V - Sources
