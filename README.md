@@ -40,8 +40,8 @@ Le commerce peut être visualisé en utilisant un diagramme d'arc.
      <img src="commerce1.png"/>
 Commerce 2: Les pays B & C réalisent un commerce mutuel de 200 millions de dollars.
 C'est ainsi que le commerce 2 se penchera en couches sur le dessus du commerce 1
-     <img src="commerce2.png"/>
-     Encore une fois, maintenant, si vous remarquez, il y a quelques différences ici. Les nœuds sont discrets (nom du pays) et la distance entre deux nœuds successifs est toujours la même. Et aussi, la magnitude (quantité commerciale) est indiquée en utilisant la largeur de l'arc (plus la quantité de commerce, plus l'arc est large). En plus de cela, aussi l'ordre technique des nœuds n'a pas d'importance dans le graphique (le graphique afficherait toujours des valeurs correctes si les pays étaient classés comme C, B, A) mais l'ordre pourrait être important pour rendre le graphique plus efficace ( plus à ce sujet plus tard).
+     <img src="commerce2.png"/></br>
+     Encore une fois, maintenant, si vous remarquez, il y a quelques différences ici.</br> Les nœuds sont discrets (nom du pays) et la distance entre deux nœuds successifs est toujours la même. Et aussi, la magnitude (quantité commerciale) est indiquée en utilisant la largeur de l'arc (plus la quantité de commerce, plus l'arc est large). </br>En plus de cela, aussi l'ordre technique des nœuds n'a pas d'importance dans le graphique (le graphique afficherait toujours des valeurs correctes si les pays étaient classés comme C, B, A) mais l'ordre pourrait être important pour rendre le graphique plus efficace ( plus à ce sujet plus tard).</br>
 
   
   ## III - Exemples 1 (D3) :
@@ -99,5 +99,5 @@ Créer un champ calculé Statut: </br>
 Et c'est fini ! </br>
   ## V - Sources
 
-  <a href='http://bl.ocks.org/sjengle/5431779'>Exemple complet D3</a>[1]
+  <a href='http://bl.ocks.org/sjengle/5431779'>Exemple complet D3</a>[1]</br>
   <a href="https://www.doingdata.org/blog/how-to-create-an-arc-diagram-in-tableau/s/arcdata-tall.csv">Exemple complet Tableau</a>[2]
