@@ -62,8 +62,8 @@ C'est ainsi que le commerce 2 se penchera en couches sur le dessus du commerce 1
  
 
    ### 2)  Code D3 : 
-  <i>Si vous étes intéressé par ce diagram vous pouvez découvrir le code pour l'utilisé avec la bibliothéque de javascript JS</i>
-  <a href='http://bl.ocks.org/sjengle/5431779'>Pour le reste de code cliquez ici  </a>
+  <i>Si vous étes intéressé par ce diagram vous pouvez découvrir le code pour l'utilisé avec la bibliothéque de javascript D3</i>
+  <a href='http://bl.ocks.org/sjengle/5431779'>cliquez ici  </a>
   
   ## VI - Exemples 2 (Tableau) :
   Dans notre exemple, nous allons utiliser ces données (imaginaires):
