@@ -74,15 +74,15 @@ C'est ainsi que le commerce 2 se penchera en couches sur le dessus du commerce 1
    Étape: 1: Préparer les données
 Répliquez le jeu de données 180 fois pour créer une courbe régulière. Donc, dans nos nouvelles données, nous aurons 10 personnes 180 fois = 1800 lignes *. Les données nouvellement créées ressembleront à ceci:
    
-  Téléchrgez les données à partir <a href="https://www.doingdata.org//s/arcdata-tall.csv"> d'ici</a>
-  Étape 2: Créer des champs calculés
-Créer un champ calculé x:
-((COS([Point] * PI() / 180)) + 1 ) * [Life Expectency] / 2
-Créer un champ calculé y:
-(((SIN([Point] * PI() / 180)) * [Life Expectency] / 2) * [Died At]) / {MAX([Died At])}
-Créer un champ calculé Statut:
-[x] <= [Died At]
-Étape: 3: 
+  Téléchrgez les données à partir <a href="https://www.doingdata.org//s/arcdata-tall.csv"> d'ici</a> </br>
+  Étape 2: Créer des champs calculés</br>
+Créer un champ calculé x:</br>
+((COS([Point] * PI() / 180)) + 1 ) * [Life Expectency] / 2 </br>
+Créer un champ calculé y: </br>
+(((SIN([Point] * PI() / 180)) * [Life Expectency] / 2) * [Died At]) / {MAX([Died At])} </br>
+Créer un champ calculé Statut: </br>
+[x] <= [Died At] </br>
+Étape: 3: </br>
 <ul>
 <li>Configurer le graphique</li>
 <li>Glisser x sur l'étagère des colonnes</li>
@@ -95,9 +95,8 @@ Créer un champ calculé Statut:
 <li>Cliquez avec le bouton droit de la souris sur la pillule Point et convertissez-la en dimension</li>
 <li>Glisser le statut sur la couleur</li>
 <li><li>Effectuez la mise en forme finale et ajoutez des astuces, le cas échéant</li>
-</ul
-et c'est fini.
- 
+</ul>
+Et c'est fini ! </br>
   ## V - Sources
 
   <a href='http://bl.ocks.org/sjengle/5431779'>Exemple complet D3</a>[1]
